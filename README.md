@@ -24,7 +24,7 @@ The backend is written with [axum](https://github.com/tokio-rs/axum), the fronte
 First, install [trunk](https://trunkrs.dev/)
 
 ```sh
-$ cargo install --locked trunk
+$ cargo install --locked trunk --force
 ```
 
 And then, compile using trunk.
